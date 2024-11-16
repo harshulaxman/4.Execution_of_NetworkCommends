@@ -1,7 +1,7 @@
 ## DATE:
+# EX-4:Execution_of_NetworkCommands
 ## NAME:Harsshitha lakshmanan
 ## REG NO: 212223230075
-# EX-4:Execution_of_NetworkCommands
 ## AIM :
 Use of Network commands in Real Time environment
 ## Software : 
